@@ -9,15 +9,15 @@
 <br />
 
 <a href="https://narayanangourav.github.io/cv-portfolio">
-  <img src="./assets/portfolio-pill.svg" height="48" alt="Explore my portfolio" />
+  <img src="./assets/portfolio-pill.svg" height="28" alt="Explore my portfolio" />
 </a>
 &nbsp;
 <a href="https://www.linkedin.com/in/narayana-n-gourav">
-  <img src="./assets/linkedin-pill.svg" height="48" alt="Connect on LinkedIn" />
+  <img src="./assets/linkedin-pill.svg" height="28" alt="Connect on LinkedIn" />
 </a>
 &nbsp;
 <a href="mailto:narayanagourav@gmail.com">
-  <img src="./assets/gmail-pill.svg" height="48" alt="Send me an email" />
+  <img src="./assets/gmail-pill.svg" height="28" alt="Send me an email" />
 </a>
 
 </div>
