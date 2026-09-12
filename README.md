@@ -126,10 +126,6 @@ class Developer:
         return analyze(problem).design().test().ship()
 ```
 
-## 📈 Contribution Activity
-
-[![Narayana's GitHub activity graph](https://github-readme-activity-graph.vercel.app/graph?username=narayanangourav&bg_color=0d1117&color=58a6ff&line=2f81f7&point=ffffff&area=true&hide_border=true)](https://github.com/narayanangourav)
-
 ---
 
 <div align="center">
