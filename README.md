@@ -129,8 +129,8 @@ class Developer:
 ---
 
 <div align="center">
-
-### Build clearly. Automate carefully. Ship reliably.
+  
+  ### Build clearly. Automate carefully. Ship reliably.
 
 
 </div>
@@ -138,8 +138,6 @@ class Developer:
 
 ---
 
-## 🦖 My GitRex
+## 🦖 GitRex Evolution
 
-![GitRex evolution](https://raw.githubusercontent.com/narayanangourav/GitRex/master/output/trex.gif)
-
-[Source](https://github.com/narayanangourav/GitRex)
+<img src="https://raw.githubusercontent.com/narayanangourav/GitRex/master/output/trex.gif?v=fd8b7d8" alt="GitRex level roadmap showing current and future stages" width="100%">
