@@ -134,3 +134,12 @@ class Developer:
 
 
 </div>
+
+
+---
+
+## 🦖 My GitRex
+
+![GitRex evolution](https://raw.githubusercontent.com/narayanangourav/GitRex/master/output/trex.gif)
+
+[Source](https://github.com/narayanangourav/GitRex)
