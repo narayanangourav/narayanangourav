@@ -1,143 +1,25 @@
-<div align="center">
+<picture><source media="(prefers-color-scheme: dark)" srcset="./assets/sheet/masthead-dark.svg" /><img src="./assets/sheet/masthead-light.svg" width="100%" alt="Narayana N Gourav, Software Engineer. Building reliable products from complex systems." /></picture>
 
-# `>_ Narayana N Gourav`
+<img src="./assets/sheet/typing.svg" alt="Python, Java, TypeScript, React.js. Backend Systems, Cloud, Automation. Build Clearly. Automate Carefully. Ship Reliably." />
 
-### Software Developer · Building reliable products from complex systems
-
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=20&duration=2800&pause=900&center=true&vCenter=true&width=760&lines=Python+%C2%B7+Java+%C2%B7+TypeScript+%C2%B7+React.js;Backend+Systems+%C2%B7+Cloud+%C2%B7+Automation;Build+Clearly.+Automate+Carefully.+Ship+Reliably." alt="Typing introduction" />
+<p>
+  <a href="https://narayanangourav.github.io/cv-portfolio"><picture><source media="(prefers-color-scheme: dark)" srcset="./assets/buttons/portfolio-dark.svg" /><img src="./assets/buttons/portfolio-light.svg" height="40" alt="Explore my portfolio" /></picture></a>&nbsp;
+  <a href="https://www.linkedin.com/in/narayana-n-gourav"><picture><source media="(prefers-color-scheme: dark)" srcset="./assets/buttons/linkedin-dark.svg" /><img src="./assets/buttons/linkedin-light.svg" height="40" alt="Connect on LinkedIn" /></picture></a>&nbsp;
+  <a href="mailto:narayanagourav@gmail.com"><picture><source media="(prefers-color-scheme: dark)" srcset="./assets/buttons/email-dark.svg" /><img src="./assets/buttons/email-light.svg" height="40" alt="Send me an email" /></picture></a>
+</p>
 
 <br />
 
-<a href="https://narayanangourav.github.io/cv-portfolio">
-  <img src="./assets/portfolio-pill.svg" height="28" alt="Explore my portfolio" />
-</a>
-&nbsp;
-<a href="https://www.linkedin.com/in/narayana-n-gourav">
-  <img src="./assets/linkedin-pill.svg" height="28" alt="Connect on LinkedIn" />
-</a>
-&nbsp;
-<a href="mailto:narayanagourav@gmail.com">
-  <img src="./assets/gmail-pill.svg" height="28" alt="Send me an email" />
-</a>
+<picture><source media="(prefers-color-scheme: dark)" srcset="./assets/sheet/about-dark.svg" /><img src="./assets/sheet/about-light.svg" width="100%" alt="About Me. 2+ years of engineering experience across backend, frontend, and cloud. Focused on Python, Java, TypeScript, React.js, and SQL. Building backend systems, web applications, automation, and data workflows. Hands-on with cloud engineering on AWS and GCP, serverless systems, and DevOps. Strong believer in clean architecture, testing, and measurable improvement. I solve root causes instead of applying temporary patches." /></picture>
 
-</div>
+<picture><source media="(prefers-color-scheme: dark)" srcset="./assets/sheet/mindset-dark.svg" /><img src="./assets/sheet/mindset-light.svg" width="100%" alt="Engineering Mindset. class Engineer:     def __init__(self):         self.name = &quot;Narayana N Gourav&quot;         self.principles = [             &quot;Fix the root cause&quot;,             &quot;Design for reliability&quot;,             &quot;Automate repeatable work&quot;,             &quot;Keep systems maintainable&quot;,         ]      def solve(self, problem):         return analyze(problem).design().test().ship()" /></picture>
 
----
+<picture><source media="(prefers-color-scheme: dark)" srcset="./assets/sheet/focus-dark.svg" /><img src="./assets/sheet/focus-light.svg" width="100%" alt="Current Focus. Backend Engineering: APIs, databases and scalable services with Django, Django REST Framework, Flask, FastAPI, Node.js and Express. Frontend Engineering: React.js, Next.js, TypeScript and Tailwind CSS. API Development: REST, RPC and gRPC services, plus WebSockets for real time features. Cloud &amp; DevOps: AWS (EC2, Lambda, S3) and GCP, CI/CD with GitHub Actions and Jenkins, Docker and Kubernetes. Automation: Terraform infrastructure, Python and Bash scripting, scheduled jobs. Data Engineering: PostgreSQL, MySQL, MongoDB, BigQuery and analytics. Code Quality: Jest, React Testing Library, SonarQube, static analysis and clean architecture. AI-Assisted Coding: OpenAI Codex, Claude Code and modern developer workflows." /></picture>
 
-<img align="right" width="340" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" alt="Developer coding animation" />
+<picture><source media="(prefers-color-scheme: dark)" srcset="./assets/sheet/stack-dark.svg" /><img src="./assets/sheet/stack-light.svg" width="100%" alt="Technology Stack. Languages: Python, Java, TypeScript, JavaScript, Node.js. Frontend and Backend: React, Next.js, Tailwind CSS, Django, Flask, FastAPI, Express, HTML, CSS. Databases and Data: PostgreSQL, MongoDB, MySQL, SQLite, Firebase, Supabase. Cloud and DevOps: AWS, Google Cloud, Cloudflare, Terraform, Docker, Kubernetes, Jenkins, GitHub Actions, Linux, Bash. Development Tools: Git, GitHub, VS Code, IntelliJ IDEA, Postman, Maven, Gradle. Additional Engineering Tools: SQLAlchemy, Streamlit, BigQuery, SonarQube, OpenAI Codex, Weblate, gRPC, Jest, Testing Library, Claude Code." /></picture>
 
-## 👨‍💻 About Me
+<picture><source media="(prefers-color-scheme: dark)" srcset="./assets/sheet/collaborate-dark.svg" /><img src="./assets/sheet/collaborate-light.svg" width="100%" alt="Building Better, Together. I am open to collaborating on: Full-stack applications using Python, Java, React, Next.js, and TypeScript; REST, RPC, and gRPC API development; PostgreSQL and database-focused systems; Cloud-native and serverless applications on AWS and GCP; CI/CD pipelines, infrastructure as code, and engineering automation; Data analytics and internal engineering platforms; Open-source tools that improve developer productivity." /></picture>
 
-- Software Developer with **2+ years of engineering experience**
-- Focused on **Python, Java, TypeScript, React.js, and SQL**
-- Building backend systems, web applications, automation, and data workflows
-- Interested in **cloud engineering, serverless systems, and DevOps**
-- Strong believer in clean architecture, testing, and measurable improvement
-- I solve root causes instead of applying temporary patches
-- Based in **Bengaluru, Karnataka, India**
+<picture><source media="(prefers-color-scheme: dark)" srcset="./assets/sheet/ask-dark.svg" /><img src="./assets/sheet/ask-light.svg" width="100%" alt="Ask Me About: Python, Java, TypeScript, React.js, Next.js, Django, Flask, FastAPI, PostgreSQL, SQLAlchemy, REST APIs, gRPC, Streamlit, AWS, GCP, Terraform, Docker, Kubernetes, CI/CD, SonarQube." /></picture>
 
-<br clear="right" />
-
-## 🌱 Current Focus
-
-```text
-Backend Engineering    → APIs, databases and scalable services
-Frontend Engineering   → React.js and TypeScript
-Cloud & DevOps         → AWS, CI/CD, Docker and Kubernetes
-Data Engineering       → PostgreSQL, BigQuery and analytics
-Code Quality           → Testing, static analysis and clean architecture
-AI-Assisted Coding     → OpenAI Codex and modern developer workflows
-```
-
-## ⚡ Building Better, Together
-
-I am open to collaborating on:
-
-- Full-stack applications using Python, Java, React, and TypeScript
-- REST and RPC API development
-- PostgreSQL and database-focused systems
-- Cloud-native and serverless applications
-- CI/CD pipelines and engineering automation
-- Data analytics and internal engineering platforms
-- Open-source tools that improve developer productivity
-
-## 🤔 Ask Me About
-
-`Python` · `Java` · `TypeScript` · `React.js` · `Django` · `Flask` · `PostgreSQL` · `SQLAlchemy` · `REST APIs` · `Streamlit` · `AWS` · `Docker` · `Kubernetes` · `CI/CD` · `SonarQube`
-
-## 🧰 Technology Stack
-
-### Languages
-
-<p>
-  <img src="https://skillicons.dev/icons?i=python,java,typescript,javascript,nodejs" alt="Programming languages" />
-</p>
-
-### Frontend and Backend
-
-<p>
-  <img src="https://skillicons.dev/icons?i=react,django,flask,html,css" alt="Frontend and backend technologies" />
-</p>
-
-### Databases and Data
-
-<p>
-  <img src="https://skillicons.dev/icons?i=postgres,mongodb,mysql,sqlite,firebase,supabase" alt="Databases and data platforms" />
-</p>
-
-### Cloud and DevOps
-
-<p>
-  <img src="https://skillicons.dev/icons?i=aws,cloudflare,docker,kubernetes,jenkins,githubactions,linux" alt="Cloud and DevOps technologies" />
-</p>
-
-### Development Tools
-
-<p>
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,idea,postman,maven,gradle" alt="Development tools" />
-</p>
-
-### Additional Engineering Tools
-
-<p>
-  <img src="https://img.shields.io/badge/SQLAlchemy-D71F00?style=flat&logo=sqlalchemy&logoColor=white" alt="SQLAlchemy" />
-  <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=flat&logo=streamlit&logoColor=white" alt="Streamlit" />
-  <img src="https://img.shields.io/badge/BigQuery-669DF6?style=flat&logo=googlebigquery&logoColor=white" alt="BigQuery" />
-  <img src="https://img.shields.io/badge/SonarQube-4E9BCD?style=flat&logo=sonarqubecloud&logoColor=white" alt="SonarQube" />
-  <img src="https://img.shields.io/badge/OpenAI_Codex-000000?style=flat&logo=openai&logoColor=white" alt="OpenAI Codex" />
-  <img src="https://img.shields.io/badge/Weblate-2ECCAA?style=flat&logo=weblate&logoColor=white" alt="Weblate" />
-</p>
-
-## ⚙️ Engineering Mindset
-
-```python
-class Developer:
-    def __init__(self):
-        self.name = "Narayana N Gourav"
-        self.role = "Software Developer"
-        self.principles = [
-            "Fix the root cause",
-            "Design for reliability",
-            "Automate repeatable work",
-            "Keep systems maintainable",
-        ]
-
-    def solve(self, problem):
-        return analyze(problem).design().test().ship()
-```
-
----
-
-<div align="center">
-  
-  ### Build clearly. Automate carefully. Ship reliably.
-
-
-</div>
-
-
----
-
-## 🦖 GitRex Evolution
-
-<img src="https://raw.githubusercontent.com/narayanangourav/GitRex/master/output/trex.gif?v=fd8b7d8" alt="GitRex level roadmap showing current and future stages" width="100%">
+<picture><source media="(prefers-color-scheme: dark)" srcset="./assets/sheet/closing-dark.svg" /><img src="./assets/sheet/closing-light.svg" width="100%" alt="Thanks for stopping by. Build clearly. Automate carefully. Ship reliably. Got a tough challenge? Let&#x27;s dig in. The links up top reach me fastest." /></picture>
